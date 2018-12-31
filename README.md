@@ -4,6 +4,4 @@
 
 ### To contribute your valuable resources to this repository, just create a PR, I' will merge it to the repositary.
 
-
-## Make a draft for contribution for others.
-
+## Everyone is free to fork or clone this repository.
